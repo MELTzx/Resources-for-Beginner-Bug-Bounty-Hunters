@@ -19,3 +19,6 @@ We understand that there are more resources other than the ones we have listed a
 6. [Mobile Hacking](/assets/mobile.md)
 6. [Blog posts & Talks](/assets/blogposts.md)
 7. [Media Resources](/assets/media.md)
+
+presentation on web hacks
+https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/mobilepresent#slide=id.g4052c4692d_0_798
